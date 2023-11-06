@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
 export default defineConfig({
-  site: 'patrickmcalinden.github.io',
+  site: 'https://patrickmcalinden.github.io',
+  base: '/portfolioSite',
   integrations: [tailwind(),  sitemap()]
 });
