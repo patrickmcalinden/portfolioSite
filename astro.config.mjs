@@ -3,6 +3,5 @@ import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   site: 'patrickmcalinden.github.io',
-  base: '/portfolioSite',
   integrations: [tailwind(),  sitemap()]
 });
