@@ -11,13 +11,13 @@ const one: Template = {
   date: "01.2023-Present",
 };
 const two: Template = {
-// link: "https://unwrapped.design",
+link: "https://unwrapped.design",
   title: "Rebate Finance Analyst",
   location: "CVS Health",
   date: "03.2022-08.2022",
 };
 const three: Template = {
-// link: "https://colorsandfonts.com",
+link: "https://colorsandfonts.com",
   title: "Socail Media/Ecommerce Analyst",
   location: "Freelance",
   date: "04.2021-12.2021",
@@ -59,7 +59,7 @@ const projectThree: projectTemplate = {
 const projectFour: projectTemplate = {
   link: "https://github.com/patrickmcalinden/spotfiy-stats",
   title: "Spotify Stats",
-  description: "A Bootstrap and JS-based website retrieves a user's Spotify stats using Spotify's API and presents them in a dashboard format, showcasing 'Top Song' and 'Top Artist' data for weekly, half-yearly, and yearly periods.",
+  description: "A Bootstrap and JS-based website retrieves a user's Spotify stats using Spotify's API and presents them in a dashboard format, showcasing Top Song' and 'Top Artist' data for weekly, half-yearly, and yearly periods.",
   date: "10.2021",
 };
 
