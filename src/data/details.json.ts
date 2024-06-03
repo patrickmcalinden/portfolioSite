@@ -8,7 +8,7 @@ const one: Template = {
   link: "https://www.redstorm.com/",
   title: "Game Intelligence Analyst",
   location: "Red Storm Entertainment",
-  date: "01.2023-Present",
+  date: "04.2023-Present",
 };
 const two: Template = {
 link: "https://unwrapped.design",
